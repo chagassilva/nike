@@ -24,7 +24,7 @@ melhor conforto nas áreas sensíveis do seu pé, como o arco e os dedos.
 
 ## Imagens
 
-![Tela inicial home nike](.src/assets/nike-home.png)
+![Tela inicial home nike](./assets/nike-home.png)
 
 ---
 
